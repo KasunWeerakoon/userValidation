@@ -1,0 +1,8 @@
+kasun,12,Ke,kasun@gmail.com,0711111111,911111111v
+Kasun Weerakoon,12,Ke,kasun@gmail.com,0711111111,911111111v
+Dinesh,26,Ke,kasun@gmail.com,0711111111,861111111v
+Kasun,26,Ke,kasun@gmail.com,0711111111,911111111v
+Dinesh,26,Colombo,Dinesh@gmail.com,0711111111,861111111v
+Kasun Weerakoon,12,Ke,kasun@gmail.com,0711111111,911111122v
+kasunfververvev,12,Ke,kasun@gmail.com,0711111111,911111111v
+kasun,12,Ke,kasun@gmail.com,0711111111,911111111v
